@@ -30,6 +30,4 @@ public abstract class Batalha {
 		this.r2 = r2;
 	}
 	
-	
-	
 }
